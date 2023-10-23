@@ -1,0 +1,173 @@
+@media (max-width:764px) {
+    nav{
+        display: flex;
+        gap: 30vw;
+    }
+    .nav1{
+        display: flex;
+        gap: 10vw;
+    }
+    .nav2{
+        display: flex;
+        gap: 10vw;
+    }
+    #shopsy{
+        font-size: 7vw;
+        color:rgb(30, 30, 201);
+    }
+    input{
+        width: 90vw;
+        height: 10vw;
+        text-align: center;
+       margin-left: 2vw;
+       font-size: 5vw;
+       border-radius: 10px;
+    }
+    .main1 img{
+          width: 95vw;
+    }
+    .main2 img{
+        width: 95vw;
+    }
+    .main3{
+        display: flex;
+        gap: 2vw;
+    }
+    .main3 img{
+        width:18vw ;
+    }
+    .main4{
+        display: flex;
+        gap: 2vw;
+        padding-left: 3vw;
+        color:rgb(30, 30, 201);
+    }
+   .main5 img{
+    width: 98vw;
+   }
+   .main6 img {
+    width: 96vw;
+   }
+   .main7one{
+    display: flex;
+    gap: 3vw;
+   }
+   .main7one img{
+     width: 30vw;
+   }
+   .main7two{
+    display: flex;
+    gap: 3vw;
+   }
+   .main7two img{
+     width: 30vw;
+   }
+   .main7three{
+    display: flex;
+    gap: 3vw;
+   }
+   .main7three img{
+     width: 30vw;
+   }
+   .main7 h1{
+    text-align: center;
+    color: rgb(30,30, 201);
+   }
+   #top{
+    margin-left: 25vw;
+    margin-right: 25vw;
+   }
+   .mainaddition img{
+    width: 96vw;
+   }
+   .main8{
+    display: flex;
+    gap: 3vw;
+   }
+   .main8one img{
+    width:20vw ;
+   }
+   .main8one{
+    width: 25vw;
+    height: 30vw;
+    background-color: rgb(245, 249, 254);
+    text-align: center;
+   }
+   .main8two img{
+    width:20vw ;
+   }
+   .main8two{
+    width: 25vw;
+    height: 30vw;
+    background-color: rgb(245, 249, 254);
+    text-align: center;
+   }
+   .main8three img{
+    width:20vw ;
+   }
+   .main8three{
+    width: 25vw;
+    height: 30vw;
+    background-color: rgb(245, 249, 254);
+    text-align: center;
+   }
+   .main8four img{
+    width:15vw ;
+   }
+   .main8four{
+    width: 25vw;
+    height: 30vw;
+    background-color: rgb(245, 249, 254);
+    text-align: center;
+   }
+   .mainadd2{
+    padding-left: 5vw;
+   }
+   .main9 img{
+    width: 98vw;
+   }
+   .main10{
+    text-align: center;
+    font-size: 4vw;
+    color: rgb(30,30, 201);
+   }
+   .main11{
+    display: flex;
+    gap: 3vw;
+   }
+   .main11 img{
+    width: 22vw;
+   }
+   .main12 img{
+    width: 96vw;
+   }
+   .main14{
+    text-align: center;
+    color: rgb(30,30,201);
+   }
+   #aftermain14{
+    margin-left:6vw ;
+    margin-right:6vw ;
+   }
+   .main15one{
+    display: flex;
+    gap: 5vw;
+   }
+   .main15one img{
+    width: 20vw;
+   }
+   .main15two{
+    display: flex;
+    gap: 5vw;
+   }
+   .main15two img{
+    width: 20vw;
+   }
+   .aftermain15{
+    display: flex;
+    text-align: center;
+   }
+   .main16 img{
+    width: 95vw;
+   }
+}
